@@ -1,0 +1,119 @@
+.bgcolo {
+    background-color: #6e2cf2 !important;
+    color: white !important;
+}
+
+.nav-link {
+    color: white !important;
+    opacity: .7;
+}
+
+.nav-link:hover {
+    opacity: 1;
+}
+
+.space-1 {
+    margin-left: 8%;
+}
+
+.space-1 img:hover {
+    rotate: -15deg;
+    transition: .5s;
+    width: 30px;
+    height: 25px;
+}
+
+.space-src {
+    margin-left: 10% !important;
+}
+
+input {
+    width: 280px !important;
+
+}
+
+input::placeholder {
+    color: white !important;
+    opacity: .7 !important;
+}
+
+input:hover {
+    box-shadow: 2px 2px 8px #b4a3d5, -2px -2px 8px #8e74c3;
+}
+
+.srch-box {
+    background-color: #6428db !important;
+    border: 1px solid #968cac !important;
+    color: white !important;
+    padding-left: 12% !important;
+
+}
+
+.sr {
+    position: absolute;
+    margin-top: .5%;
+    margin-left: .5%;
+    opacity: .7 !important;
+    font-size: 150% !important;
+    font-weight: lighter !important;
+
+}
+
+.img-3 {
+    position: absolute;
+    left: 74%;
+    opacity: .9;
+
+}
+
+.border {
+    width: 1px;
+    background-color: white;
+    height: 30px;
+    position: absolute;
+    left: 83%;
+    opacity: .3;
+}
+
+.v5-3 {
+    position: absolute;
+    left: 84%;
+}
+
+.border-2 {
+    width: 1px;
+    background-color: white;
+    height: 30px;
+    position: absolute;
+    left: 88.7%;
+    opacity: .3;
+}
+
+.btn {
+
+    margin-left: 630%;
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.theme-menu {
+    margin-left: 630% !important;
+    background-color: #212529 !important;
+}
+
+.version-menu {
+    background-color: #212529 !important;
+    color: white !important;
+}
+
+.active {
+    background-color: #712cf9 !important;
+}
+
+.txt {
+    color: white !important;
+}
+
+.txt:hover {
+    background-color: #6e2cf2 !important;
+}
